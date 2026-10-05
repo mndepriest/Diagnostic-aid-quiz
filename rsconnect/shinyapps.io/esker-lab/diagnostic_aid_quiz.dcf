@@ -1,0 +1,12 @@
+name: diagnostic_aid_quiz
+title:
+username: esker-lab
+account: esker-lab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17691752
+bundleId: 12399175
+url: https://esker-lab.shinyapps.io/diagnostic_aid_quiz/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,90 @@
+question,symptom,n
+leaf_discoloration.lesion_characteristics,dull green discoloration,1
+leaf_discoloration.lesion_characteristics,bronze discoloration,4
+leaf_discoloration.lesion_characteristics,dark lesion margins,4
+leaf_discoloration.lesion_characteristics,red/orange lesions,6
+leaf_discoloration.lesion_characteristics,veinal chlorosis or discoloration,6
+leaf_discoloration.lesion_characteristics,yellow or green mottling,6
+leaf_discoloration.lesion_characteristics,tan/gray lesions,8
+leaf_discoloration.lesion_characteristics,light lesion margins,11
+leaf_discoloration.lesion_characteristics,overall chlorosis/yellowing,13
+leaf_discoloration.lesion_characteristics,interveinal chlorosis or lesions,14
+leaf_discoloration.lesion_characteristics,brown lesions,16
+leaf_discoloration.lesion_characteristics,chlorotic spots,31
+leaf_symptoms,fungal fruiting/reproductive bodies,3
+leaf_symptoms,tattering,3
+leaf_symptoms,white mycelium,5
+leaf_symptoms,scorching,7
+leaf_symptoms,distorted shape,9
+leaf_symptoms,rugosity,9
+leaf_symptoms,wilting,10
+leaf_symptoms,"cupping, curling, or rolling",13
+leaf_symptoms,early leaf drop,18
+leaf_symptoms,discoloration or lesions (including chlorosis),49
+plant_parts,"pods/seeds, stems/petioles",1
+plant_parts,"roots, pods/seeds",1
+plant_parts,"stems/petioles, pods/seeds",1
+plant_parts,roots,15
+plant_parts,pods/seeds,25
+plant_parts,stems/petioles,31
+plant_parts,leaves,53
+pod.seed_symptoms,dark fungal bodies,1
+pod.seed_symptoms,"dark fungal bodies, white mycelium",1
+pod.seed_symptoms,discoloration or lesions,1
+pod.seed_symptoms,green discoloration,1
+pod.seed_symptoms,purple discoloration,1
+pod.seed_symptoms,seed rot,1
+pod.seed_symptoms,deformed pods,2
+pod.seed_symptoms,pod abortion,3
+pod.seed_symptoms,seed cracking/shrivelling,5
+pod.seed_symptoms,white mycelium,6
+pod.seed_symptoms,dark lesions,11
+pod.seed_symptoms,poor pod fill,13
+root_discoloration.lesion_characteristics,brown discoloration,1
+root_discoloration.lesion_characteristics,gray discoloration,1
+root_discoloration.lesion_characteristics,red lesions,1
+root_discoloration.lesion_characteristics,red discoloration,2
+root_discoloration.lesion_characteristics,internal browning,3
+root_discoloration.lesion_characteristics,dark lesions,4
+root_symptoms,"black fungal bodies, reduced development or nodulation",1
+root_symptoms,brittleness or weakness,1
+root_symptoms,brittleness/weakness,1
+root_symptoms,brown/tan fungal growth,1
+root_symptoms,red fungal bodies,1
+root_symptoms,black fungal bodies,2
+root_symptoms,galls or cysts,2
+root_symptoms,reduced development or nodulation,7
+root_symptoms,discoloration or lesions,8
+root_symptoms,rot,9
+stem.petiole_external_discoloration.lesion_characteristics,dark lesion margins,2
+stem.petiole_external_discoloration.lesion_characteristics,gray lesions or discoloration,3
+stem.petiole_external_discoloration.lesion_characteristics,water-soaked or sunken lesions,3
+stem.petiole_external_discoloration.lesion_characteristics,elongated or streaked lesions,5
+stem.petiole_external_discoloration.lesion_characteristics,black lesions,8
+stem.petiole_external_discoloration.lesion_characteristics,red lesions,11
+stem.petiole_external_discoloration.lesion_characteristics,brown lesions,16
+stem.petiole_symptoms,delayed maturity,1
+stem.petiole_symptoms,"internal discoloration or lesions, black fungal bodies",1
+stem.petiole_symptoms,internal_discoloration or lesions,1
+stem.petiole_symptoms,red/orange fungal bodies,1
+stem.petiole_symptoms,wilting,1
+stem.petiole_symptoms,"brown, tan, or red fungal bodies",2
+stem.petiole_symptoms,brittle or weak stems,4
+stem.petiole_symptoms,rot,4
+stem.petiole_symptoms,spindly and thin stems,4
+stem.petiole_symptoms,black fungal bodies,5
+stem.petiole_symptoms,white mycelium,5
+stem.petiole_symptoms,internal discoloration or lesions,6
+stem.petiole_symptoms,Shepherd's crooking,8
+stem.petiole_symptoms,external discoloration or lesions,20
+stem_petiole_internal_discoloration.lesion_characteristics,dark rings or lines,2
+stem_petiole_internal_discoloration.lesion_characteristics,dark spots,2
+stem_petiole_internal_discoloration.lesion_characteristics,brown discoloration,4
+stem_petiole_internal_discoloration.lesion_characteristics,gray discoloration,4
+universal_symptoms,damping off,3
+universal_symptoms,premature death,3
+universal_symptoms,white mycelium,5
+universal_symptoms,lodging,8
+universal_symptoms,delayed maturity,10
+universal_symptoms,wilting,11
+universal_symptoms,stunted growth,27
